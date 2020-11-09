@@ -1,0 +1,89 @@
+{
+    "wizards": [
+        {
+            "id": 1,
+            "name": "Harry Potter",
+            "bio": "Harry James Potter es un mago de sangre mestiza y el único hijo de James y Lily Potter. Es la única persona conocida que ha sobrevivido a la maldición de Avada Kedavra, haciéndolo en dos ocasiones.",
+            "img": "https://comicvine1.cbsistatic.com/uploads/original/8/85165/2014507-harry_potter_4.jpg"
+        },
+
+        {
+            "id": 2,
+            "name": "Albus Dumbledore",
+            "bio": "Albus Dumbledore era considerado como el mago más poderoso de su época. Él era famoso por derrotar a Gellert Grindelwald, descubrir doce usos de la sangre de dragón, y su trabajo en alquimia con Nicolas Flamel.",
+            "img": "https://vignette.wikia.nocookie.net/characters/images/a/ac/Albus_Dumbledore.jpg/revision/latest/scale-to-width-down/350?cb=20171118150857"
+        },
+
+        {
+            "id": 3,
+            "name": "Hermione Granger",
+            "bio": "Hermione Granger es una bruja hija de muggles. A los once años descubrió su don mágico y fue aceptada en el Colegio Hogwarts de Magia y Hechicería. Posee una mente académica brillante, y demostró ser una estudiante superdotada.",
+            "img": "https://vignette.wikia.nocookie.net/characters/images/a/a5/Latest_%2810%29.jpg/revision/latest?cb=20141230074301"
+        },
+
+        {
+            "id": 4,
+            "name": "Ronald Weasley",
+            "bio": "Ronald Bilius Weasley es un mago sangre pura, el sexto y más joven hijo de Arthur y Molly Weasley. También era el hermano mayor de Ginny. Pronto se convirtió en el mejor amigo de Harry Potter y luego de Hermione Granger.",
+            "img": "https://vignette.wikia.nocookie.net/characters/images/8/85/Ron_Weasley.jpg/revision/latest?cb=20171118115636"
+        },
+
+        {
+            "id": 5,
+            "name": "Minerva McGonagall",
+            "bio": "Madame Profesora Minerva McGonagall era una bruja y una animaga que se convirtió en Jefa de la Casa Gryffindor, profesora de Transformaciones y al mismo tiempo, subdirectora de Hogwarts.",
+            "img": "https://vignette.wikia.nocookie.net/harrypotter/images/9/94/Mcgonagall3.jpg/revision/latest?cb=20140331185259&path-prefix=fr"
+        },
+
+        {
+            "id": 6,
+            "name": "Severus Snape",
+            "bio": "El Profesor Severus Snape fue Maestro de Pociones, profesor de Defensa Contra las Artes Oscuras y director de Hogwarts. Snape desempeñó un papel esencial en las dos guerras contra Lord Voldemort.",
+            "img": "https://vignette.wikia.nocookie.net/harrypotterfanon/images/9/99/SevSnape.jpg/revision/latest?cb=20160129230835"
+        },
+
+        {
+            "id": 7,
+            "name": "Quirinus Quirrell",
+            "bio": "Quirinus Quirrell fue un mago que asistió al Colegio Hogwarts de Magia y Hechiceria y fue seleccionado en Ravenclaw. Más tarde, se convirtió en profesor de Estudios Muggles y después de Defensa Contra las Artes Oscuras.",
+            "img": "https://vignette.wikia.nocookie.net/harrypotter/images/e/e9/Quirinus_Quirrel.jpg/revision/latest?cb=20110806132643"
+        },
+
+        {
+            "id": 8,
+            "name": "Rubeus Hagrid",
+            "bio": "El Profesor Rubeus Hagrid era un mago semi gigante, hijo del señor Hagrid y la giganta Fridwulfa y medio hermano del gigante Grawp. Asistió al Colegio Hogwarts de Magia y Hechicería y fue seleccionado para la Casa Gryffindor.",
+            "img": "http://images.shoutwiki.com/harrypotter/7/70/Rubeus_Hagrid.PNG"
+        },
+
+        {
+            "id": 9,
+            "name": "Rolanda Hooch",
+            "bio": "Madame Rolanda Hooch fue una estricta bruja que trabajaba como instructora de vuelo, árbitro de Quidditch y entrenadora en el Colegio Hogwarts de Magia y Hechicería.",
+            "img": "http://images2.wikia.nocookie.net/__cb20100616193054/harrypotter/images/0/02/RolandaHooch.jpg"
+        },
+
+        {
+            "id": 10,
+            "name": "Filius Flitwick",
+            "bio": "El profesor Filius Flitwick era un mago semiduende que asistió a Colegio Hogwarts de Magia y Hechicería y fue seleccionado para la casa Ravenclaw, donde se convirtió en profesor de Encantamientos, así como en jefe de la casa Ravenclaw.",
+            "img": "https://static.tvtropes.org/pmwiki/pub/images/filius_flitwick.jpg"
+        },
+
+        {
+            "id": 11,
+            "name": "Argus Filch",
+            "bio": "Argus Filch era el vigilante y celador de Hogwarts. Le gustaba castigar y atrapar a los estudiantes, y se desanimaba cuando no lo lograba, estaba obsesionado con atrapar a Peeves, pero nunca pudo, ya que éste sólo obedecía al Barón Sanguinario.",
+            "img": "http://sleety.org/files/2010/03/Argus-Filch.jpg"
+        }
+    ],
+    "beasts": [
+        {
+            "id": 1,
+            "name": "Escorbato",
+            "bio":""
+        }
+    ],
+    "spells": [],
+    "houses": []
+}
