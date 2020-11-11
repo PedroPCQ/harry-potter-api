@@ -80,8 +80,72 @@
     "beasts": [
         {
             "id": 1,
-            "name": "Escorbato",
-            "bio":""
+            "name": "Escarbato",
+            "bio":"Un Escarbato es una criatura que busca tesoros con un hocico largo y delgado. Ellos se sienten muy atraídos hacia las cosas brillantes, lo que los hace maravillosos para localizar objetos metálicos o con brillo, pero pueden morder si una persona está usando cualquier joya.",
+            "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/295fb76c-7179-4c70-a508-a1cce61a876f/dazbwcr-71dbffea-3c86-413a-baf5-469a05d0d260.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8yOTVmYjc2Yy03MTc5LTRjNzAtYTUwOC1hMWNjZTYxYTg3NmYvZGF6Yndjci03MWRiZmZlYS0zYzg2LTQxM2EtYmFmNS00NjlhMDVkMGQyNjAucG5nIn1dXX0.68APVgrgCWsZ4aYjw8bGC4epmEeDnmXSB71rpmcQ__E"
+        },
+
+        {
+            "id": 2,
+            "name": "Erumpent",
+            "bio":"Esta bestia no ataca a menos que se le provoque exageradamente, pero, cuando lo hace, los resultados suelen ser catastróficos. El cuerno del erumpent puede atravesar cualquier cosa, desde la piel hasta el metal, y contiene un fluido mortal que provoca que todo lo que haya sido inyectado con él reaccione provocando una poderosa explosión. Según Hermione Granger, basta con que el cuerno y cualquier objeto, hechizo o ser vivo se rocen levemente para que se produzca este resultado.",
+            "img": "https://gamepress.gg/wizardsunite/sites/wizardsunite/files/2019-04/Erumpent-foundable.png"
+        },
+
+        {
+            "id": 3,
+            "name": "Murtlap",
+            "bio":"Sus protuberancias son encurtidas para el consumo, pues confieren resistencia ante las maldiciones y el mal de ojo, aunque el consumo excesivo hace aparecer vello purpura en las orejas bastante antiestético. La esencia de Murtlap es un remedio casero para cortes. Los tentáculos de murtlap son conocidos por sus propiedades curativas y son utilizados para crear pociones con fines curativos. ",
+            "img": "https://gamepress.gg/wizardsunite/sites/wizardsunite/files/2019-04/Murtlap-foundable.png"
+        },
+
+        {
+            "id": 4,
+            "name": "Demiguise",
+            "bio":"El Demiguise es un ser pacífico, herbívoro que puede hacerse invisible. Se encuentra en el Lejano Oriente, pero sólo los magos y brujas formados en su captura pueden verlo. Se asemeja a un mono con ojos grandes, negros y cabello largo y sedoso. Las pieles de los Demiguise son muy codiciadas ya que con su cabello pueden ser tejidas las capas de invisibilidad. Las capas hechas de su pelo con el tiempo se vuelven opacas, perdiendo su efecto de invisibilidad con el tiempo.",
+            "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/295fb76c-7179-4c70-a508-a1cce61a876f/dazbwbv-a1be475f-76eb-49c3-bb69-050c726839ab.png"
+        },
+
+        {
+            "id": 5,
+            "name": "Bowtruckle",
+            "bio":"El bowtruckle es un guardián de árboles inmensamente difícil de detectar. Se puede encontrar en el oeste de Inglaterra, el sur de Alemania, y en algunos bosques escandinavos. Un Bowtruckle sirve como guardián de su árbol, que suele ser uno cuya madera sirve para fabricar varitas mágicas. Los dedos en forma de rama le sirven para arrancarle los ojos a un enemigo.",
+            "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1dbc1935-6542-4ee3-822f-135cff4ba62c/daskj53-84eb840a-479b-42f4-9e6e-82173602af7f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8xZGJjMTkzNS02NTQyLTRlZTMtODIyZi0xMzVjZmY0YmE2MmMvZGFza2o1My04NGViODQwYS00NzliLTQyZjQtOWU2ZS04MjE3MzYwMmFmN2YucG5nIn1dXX0.ohOOM6lGO_kujd1tBicmJyanfB06_LCvSVhAU3EZMgM"
+        },
+
+        {
+            "id": 6,
+            "name": "Occamy",
+            "bio":"El occamy se encuentra en el Lejano Oriente y en la India. Es una criatura serpentina de cuerpo emplumado, dos patas con alas, que pueden alcanzar hasta cuatro metros y medio de largo. No obstante, es coranáptico, y puede crecer o encoger mágicamente para adaptarse al espacio del que dispone en su entorno.Se alimenta principalmente de las ratas y pájaros, aunque de vez en cuando caza monos. El occamy es agresivo con todos los que se le acercan, en especial si percibe que son una amenaza para sus huevos, cuya cáscara está hecha de la más suave y pura plata.",
+            "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/295fb76c-7179-4c70-a508-a1cce61a876f/dazbwdo-fce73c8b-97a5-4d5f-bc57-125abb70ec66.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8yOTVmYjc2Yy03MTc5LTRjNzAtYTUwOC1hMWNjZTYxYTg3NmYvZGF6Yndkby1mY2U3M2M4Yi05N2E1LTRkNWYtYmM1Ny0xMjVhYmI3MGVjNjYucG5nIn1dXX0.cSM9K4wugS6d2Oz0bQ-ywnZwxVakHNVqkgdpTQG3xMM"
+        },
+
+        {
+            "id": 7,
+            "name": "Fénix",
+            "bio":"Los fénix son invulnerables a la maldición Avada Kedavra; si un fénix recibe esta maldición, instantáneamente estalla en llamas del mismo modo que si le hubiese llegado el momento de morir de muerte natural, resurgiendo de las cenizas que deja al arder exactamente igual que en dicho caso.",
+            "img": "https://vignette.wikia.nocookie.net/harry-potter-pedia/images/c/c1/Phoenix.png/revision/latest?cb=20140512080005"
+        },
+
+        {
+            "id": 8,
+            "name": "Dragón",
+            "bio":"Son capaces de volar y de expulsar fuego por sus fosas nasales, son una de las criaturas más peligrosas y difíciles de ocultar en el Mundo Mágico. El Ministerio Británico de Magia los clasifica como XXXXX, la más peligrosa. A pesar de su peligrosidad, hay gente preparada para trabajar con ellos, llamados dragonolistas. Un mago que ilegalmente comercia y vende dragones es denominado traficante de dragones. Los miembros del Comité de Exterminación de Criaturas Peligrosas que matan dragones se les llama mata dragones.",
+            "img": "https://i.pinimg.com/originals/40/b0/4e/40b04e7c51b942c17b856ff641a3bb86.png"
+        },
+
+        {
+            "id": 9,
+            "name": "Basilisco",
+            "bio":"De las muchas bestias pavorosas y monstruos terribles que vagan por nuestra tierra, no hay ninguna más sorprendente ni más letal que el basilisco, conocido como el rey de las serpientes. Esta serpiente, que puede alcanzar un tamaño gigantesco y cuya vida dura varios siglos, nace de un huevo de gallina empollado por un sapo. Sus métodos de matar son de lo más extraordinario, pues además de sus colmillos mortalmente venenosos, el basilisco mata con la mirada, y todos cuantos fijaren su vista en el brillo de sus ojos han de sufrir instantánea muerte. Las arañas huyen del basilisco, pues es éste su mortal enemigo, y el basilisco huye sólo del canto del gallo, que para él es mortal.",
+            "img": "https://vignette.wikia.nocookie.net/harrypotter/images/7/70/Nagini_PM.png/revision/latest/scale-to-width-down/2000?cb=20161124073206"
+        },
+
+        {
+            "id": 10,
+            "name": "Hipogrifo",
+            "bio":"Cuando los humanos se acercan a los hipogrifos, hay que seguir un cierto comportamiento con tal de evitar el peligro. Los hipogrifos son criaturas intensamente orgullosas, y un individuo debe mostrar el debido respeto al inclinarse ante ellos y esperar a que se inclinen a cambio antes de acercarse. El contacto visual debe mantenerse, en todo momento, sin un solo parpadeo.",
+            "img": "https://vignette.wikia.nocookie.net/rollspelsklubben/images/e/e8/Hippogriff.png/revision/latest?cb=20180421131545&path-prefix=sv"
         }
     ],
     "spells": [],
