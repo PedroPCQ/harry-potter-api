@@ -148,6 +148,101 @@
             "img": "https://vignette.wikia.nocookie.net/rollspelsklubben/images/e/e8/Hippogriff.png/revision/latest?cb=20180421131545&path-prefix=sv"
         }
     ],
-    "spells": [],
-    "houses": []
+    "spells": [
+        {
+            "id": 1,
+            "name": "Alohomora",
+            "info": "El encantamiento de apertura, también conocido como Alohomora, es un encantamiento que permite abrir puertas y ventanas que no están protegidas por magia. También permite abrir puertas selladas por el hechizo de cierre.",
+            "gif": "http://cdn.playbuzz.com/cdn/d04ec8fe-b1a7-4976-a3c8-392e2c71d986/67076d41-d518-41d2-8bbb-8396410b391e.gif"
+        },
+
+        {
+            "id": 2,
+            "name": "wingardium leviosa",
+            "info": "El encantamiento Wingardium leviosa es un encantamiento usado para hacer que los objetos vuelen o leviten, siendo enseñado en primer año de Encantamientos en el Colegio Hogwarts de Magia y Hechicería.",
+            "gif": "https://68.media.tumblr.com/59f915734df5c480a77bdf72d35f1fd4/tumblr_opjhs1cmbQ1tkodheo9_400.gif"
+        },
+
+        {
+            "id": 3,
+            "name": "Oculus Reparo",
+            "info": "Oculus reparo es un hechizo utilizado para reparar las gafas rotas. Es utilizado por Hermione Granger para reparar las gafas de Harry Potter como demostración en el tren de camino a Hogwarts en el la primera película.",
+            "gif": "http://pa1.narvii.com/6319/ebc9031d292b8c27f281fd19e16d8c495b98b91c_hq.gif"
+        },
+
+        {
+            "id": 4,
+            "name": "Petrificus Totalus",
+            "info": "Los brazos y las piernas de la víctima se quedan pegados muy rígidamente y el sujeto suele caer por la pérdida de equilibrio. Sin embargo, el hechizo no interfiere en la vista, audición, tacto o capacidad de pensar del individuo.",
+            "gif": "https://68.media.tumblr.com/ede68129a5d3edb19f6c5cf3e316953f/tumblr_o9ugre6kyC1thu2vbo2_400.gif"
+        },
+
+        {
+            "id": 5,
+            "name": "Lumos",
+            "info": "El encantamiento para encender varitas, también conocido como encantamiento de iluminación (Lumos) es un encantamiento usado para iluminar la punta de la varita del mago; esta luz es ligeramente cálida.",
+            "gif": "https://68.media.tumblr.com/3abd1a368c5a42a1f0120bbd3c6689f8/tumblr_nzekhjIV9M1s4msvwo5_400.gif"
+        },
+
+        {
+            "id": 6,
+            "name": "Obliviate",
+            "info": "El encantamiento desmemorizante es un hechizo que se usa para borrar algunos o todos los recuerdos de la mente de un individuo. Es diferente al encantamiento creador de falsos recuerdos.",
+            "gif": "http://cdn.playbuzz.com/cdn/131a72c0-9385-4444-ad8c-eab9ec9afa48/648c03b1-8bee-462d-8fd0-1daa38df82d9.gif"
+        },
+
+        {
+            "id": 7,
+            "name": "Expelliarmus",
+            "info": "Encantamiento defensivo que fuerza a la víctima a soltar lo que sea que esté sujetando. Es común ver el uso de este hechizo en duelos para obligar a un oponente a soltar su varita.",
+            "gif": "https://vignette.wikia.nocookie.net/harrypotter/images/6/67/Snape_disarms_Lockhart.gif/revision/latest?cb=20190402120234"
+        },
+
+        {
+            "id": 8,
+            "name": "Spectro Patronum",
+            "info": "Es un hechizo que genera una fuerza de energía positiva parcialmente tangible conocida como Patronus o espíritu guardián. Es la protección principal contra dementores y lethifolds, ante los cuales no existe otra defensa.",
+            "gif": "https://vignette2.wikia.nocookie.net/harrypotter/images/b/b0/Sheild_patronus.gif/revision/latest?cb=20140724003759"
+        },
+
+        {
+            "id": 9,
+            "name": "Engorgio",
+            "info": "El encantamiento de congestión (Engorgio) hace que un objeto crezca en tamaño. Fue utilizado por Barty Crouch Jr (transformado en Alastor Moody) en la clase de Defensa contra las Artes Oscuras hacia una araña",
+            "gif": "https://vignette.wikia.nocookie.net/harrypotter/images/d/d8/Engorgio.gif/revision/latest?cb=20200616065135&path-prefix=pl"
+        },
+
+        {
+            "id": 10,
+            "name": "Riddikulus",
+            "info": "El encantamiento repulsor de boggarts (Riddikulus) es un encantamiento usado para defenderse de los boggarts, obligando a la criatura a convertirse en una forma que genera risa al usuario",
+            "gif": "https://i.stack.imgur.com/dGOUE.gif"
+        }
+    ],
+    "houses": [
+        {
+            "id":1,
+            "name": "Gryffindor",
+            "info": "Gryffindor es una de las cuatro casas del Colegio Hogwarts de Magia y Hechicería, fundada por Godric Gryffindor. Su animal emblemático es el león y sus colores son el rojo escarlata y el dorado. Minerva McGonagall es la más reciente jefa de la casa. Sir Nicholas de Mimsy-Porpington también conocido como \"Nick Casi Decapitado\" es el fantasma de la casa. Las principales características de los Gryffindor son el coraje y la caballerosidad.El elemento de Gryffindor es el fuego, ya que se lo asocia al valor y coraje de esta casa. Además, el fuego simboliza el honor en variadas ocasiones, lo cual también puede aplicar para Gryffindor.",
+            "img": "https://webstockreview.net/images/badge-clipart-gryffindor-11.png"
+        },
+        {
+            "id":2,
+            "name": "Slytherin",
+            "info": "Slytherin es una de las cuatro casas del Colegio Hogwarts de Magia y Hechicería, fundada por Salazar Slytherin. Al establecer la casa, Salazar instruyó al Sombrero Seleccionador para que seleccionara a los estudiantes que tenían las características particulares que él valoraba más. Esas características incluyen: astucia, ingenio y ambición. Muchos estudiantes de Slytherin tienden a hacer camarillas juntos, a menudo adquiriendo líderes, lo que es un ejemplo más de las ambiciosas cualidades de Slytherin. Ejemplos de estos incluyen la pandilla de Draco Malfoy y los mortífagos.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/3/34/Slytherin.png"
+        },
+        {
+            "id":3,
+            "name": "Ravenclaw",
+            "info": "Ravenclaw es una de las cuatro casas que componen el Colegio Hogwarts de Magia y Hechicería, fundada por Rowena Ravenclaw, quién tuvo una hija, cuyo fantasma es la Dama Gris la cual fue asesinada por el Barón Sanguinario. Su hija le robó la diadema que le pertenecía y huyó a los bosques de Albania, lugar donde fue asesinada, y donde años después, Lord Voldemort encuentra la diadema y la esconde en la sala de los menesteres, en el Colegio Hogwarts de Magia y Hechicería. Se dice que fue Ravenclaw quien le puso el nombre al castillo.",
+            "img": "https://i.pinimg.com/originals/fd/b2/80/fdb2806895fa21b8367bdace96ef4aa2.png"
+        },
+        {
+            "id":4,
+            "name": "Hufflepuff",
+            "info": "Hufflepuff es una de las cuatro casas del Colegio Hogwarts de Magia y Hechicería. Su fundadora es la bruja medieval Helga Hufflepuff. La jefa de la casa es Pomona Sprout. El fraile gordo es el fantasma de la casa. Hufflepuff es la más inclusiva de las cuatro casas; el trabajo duro, la paciencia, la amistad y la honestidad son sumamente necesarias para ser miembros. Su animal emblemático es el tejón y sus colores son el amarillo y negro.Hufflepuff responde en gran medida a los elementos de la tierra. ",
+            "img": "https://assets.rbl.ms/14751546/980x.png"
+        }
+    ]
 }
